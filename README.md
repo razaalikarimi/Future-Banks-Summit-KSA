@@ -1,106 +1,82 @@
-🏦 Future Banks Summit & Awards | KSA 2023 — Event Website
+# 🏦 Future Banks Summit & Awards | KSA 2023  
+A modern, responsive **React + Tailwind CSS single-page event website** built as a technical assignment for a Frontend / Full-Stack role.  
 
-A modern, responsive React + Tailwind CSS single-page website built as a technical assignment for a Frontend/Full-Stack interview project.
-Showcases event details, highlights, speakers, agenda, CTA sections, registration form UI & more.
+---
 
-🚀 Tech Stack
-Technology	Purpose
-React.js (Vite)	UI & Component based architecture
-Tailwind CSS	Styling & responsive design
-JavaScript ES6+	Functionality
-HTML5 / JSX	Markup
-Git & GitHub	Version control
-Deployment (Optional)	Vercel / Render
-📌 Features
+## 🚀 Tech Stack
 
-✔ Fully responsive UI (Mobile → Desktop)
-✔ Modern FinTech style layout
-✔ Smooth navigation & section based structure
-✔ Attractive hero section with branded watermark effect
-✔ Overview, highlights, key themes & agenda sections
-✔ "Who Will You Meet" & “Why Attend” info blocks
-✔ Call-to-action (Register / Brochure)
-✔ Contact & inquiry form UI (no backend)
-✔ Clean footer + back-to-top link
+- **React.js (Vite)**
+- **Tailwind CSS**
+- **JavaScript ES6+**
+- **HTML5 / JSX**
+- **Git & GitHub**
+- Deployable on **Vercel/Render/Netlify**
 
-🗂 Project Structure
+---
+
+## 📌 Features
+
+- Fully responsive UI (Mobile → Desktop)
+- Modern fintech-grade layout with gradients & glass UI
+- Hero section with background logo watermark
+- Event overview, highlights & key themes
+- Who will attend & why attend sections
+- Two-day schedule / key themes block
+- Call-to-Action buttons (Register / Brochure)
+- Contact & enquiry form UI (frontend only)
+- Clean footer with back-to-top link
+
+---
+
+## 📁 Folder Structure
+
 future-banks-ksa/
 ├── public/
-│   └── logo.png
+│ └── logo.png
 ├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Hero.jsx
-│   │   ├── SectionHeading.jsx
-│   │   ├── HighlightsGrid.jsx
-│   │   ├── WhoYouWillMeet.jsx
-│   │   ├── WhyAttend.jsx
-│   │   ├── ScheduleSection.jsx
-│   │   ├── CTASection.jsx
-│   │   ├── ContactForm.jsx
-│   │   └── Footer.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
+│ ├── components/
+│ │ ├── Navbar.jsx
+│ │ ├── Hero.jsx
+│ │ ├── SectionHeading.jsx
+│ │ ├── HighlightsGrid.jsx
+│ │ ├── WhoYouWillMeet.jsx
+│ │ ├── WhyAttend.jsx
+│ │ ├── ScheduleSection.jsx
+│ │ ├── CTASection.jsx
+│ │ ├── ContactForm.jsx
+│ │ └── Footer.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
 ├── package.json
-└── README.md  ← (you are here)
+└── README.md
 
-🛠 Installation & Setup
-1️⃣ Clone repository
-git clone https://github.com/YOUR-USERNAME/future-banks-ksa.git
+
+---
+
+## Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/future-banks-ksa.git
 cd future-banks-ksa
+Install dependencies:
 
-2️⃣ Install dependencies
+bash
+Copy code
 npm install
+Start development server:
 
-3️⃣ Run development server
+bash
+Copy code
 npm run dev
+The project runs on:
 
-
-Project runs at → http://localhost:5173
-
-🔥 Build for production
+arduino
+Copy code
+http://localhost:5173
+Build for Production
+bash
+Copy code
 npm run build
-
-☁ Deployment Options
-Deploy on Vercel (Recommended)
-
-Push project to GitHub
-
-Visit https://vercel.com
-
-Import repository → Deploy
-
-Done 🎉
-
-Deploy via ZIP Upload
-npm run build
-zip -r future-banks-ksa.zip .
-
-
-or Windows PowerShell:
-
-Compress-Archive -Path * -DestinationPath future-banks-ksa.zip
-
-📄 UI Sections Overview
-
-Navigation Bar
-
-Hero + Logo Watermark Background
-
-Event Overview
-
-Topic Highlights
-
-Who Will Attend
-
-Why Attend
-
-Schedule (2-Day Agenda)
-
-CTA / Registration Block
-
-Contact Form UI
-
-Footer
-
