@@ -1,30 +1,33 @@
-# 🏦 Future Banks Summit & Awards | KSA 2023  
-A modern, responsive **React + Tailwind CSS single-page event website** built as a technical assignment for a Frontend / Full-Stack role.  
+# 🏦 Future Banks Summit & Awards | KSA 2023
+
+A modern, responsive **React + Tailwind CSS** single-page event website built as part of a **Frontend / Full-Stack technical assignment**.  
+The website presents event details, agenda, highlights, and includes a contact form UI with a clean fintech-style interface.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **React.js (Vite)**
-- **Tailwind CSS**
-- **JavaScript ES6+**
-- **HTML5 / JSX**
-- **Git & GitHub**
-- Deployable on **Vercel/Render/Netlify**
+- React.js (Vite)
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5 / JSX
+- Git & GitHub
+- Deployable on **Vercel / Render / Netlify**
 
 ---
 
 ## 📌 Features
 
-- Fully responsive UI (Mobile → Desktop)
-- Modern fintech-grade layout with gradients & glass UI
+- Fully responsive design (Mobile → Desktop)
+- Modern fintech UI with gradients and soft shadows
 - Hero section with background logo watermark
-- Event overview, highlights & key themes
-- Who will attend & why attend sections
-- Two-day schedule / key themes block
-- Call-to-Action buttons (Register / Brochure)
+- Event overview section
+- Topic highlights grid layout
+- "Who Will Attend" and "Why Attend" information blocks
+- Two-day agenda / key themes schedule
+- Call-to-action buttons (Register / Brochure)
 - Contact & enquiry form UI (frontend only)
-- Clean footer with back-to-top link
+- Minimal footer with back-to-top & privacy placeholder
 
 ---
 
@@ -51,19 +54,27 @@ future-banks-ksa/
 ├── package.json
 └── README.md
 
+yaml
+Copy code
 
 ---
 
-## Installation & Setup
+## 🔧 Installation & Setup
 
-2️⃣ Install dependencies
+Clone the repository:
+
+Install dependencies:
+
+bash
 npm install
+Start development server:
 
-3️⃣ Start development server
+bash
 npm run dev
+Now open the project at:
 
-
-Visit → http://localhost:5173/
-
+arduino
+http://localhost:5173/
 🔥 Production Build
+bash
 npm run build
