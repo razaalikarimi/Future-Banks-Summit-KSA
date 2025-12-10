@@ -61,17 +61,18 @@ future-banks-ksa/
 
 ## Install dependencies:
 
-## bash
--npm install
+ bash
+npm install
 ## Start development server:
 
-## bash
--npm run dev
+bash
+npm run dev
 ## Now open the project at:
 
 ## arduino
--http://localhost:5173/
+http://localhost:5173/
 ## 🔥 Production Build
-##bash
--npm run build
+bash
+npm run build
+
 
