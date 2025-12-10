@@ -76,3 +76,17 @@ bash
 npm run build
 
 
+![1](https://github.com/user-attachments/assets/84e9f2c9-e473-4566-a851-0de48923fa89)
+
+
+![2](https://github.com/user-attachments/assets/0c1077f4-5dd3-4ed0-b6bb-fa08dc53853a)
+
+![3](https://github.com/user-attachments/assets/95441698-afe8-42a9-83dc-6eec72547f12)
+
+![4](https://github.com/user-attachments/assets/b18e7e59-6906-4950-b917-c7a11fcc0a28)
+
+![5](https://github.com/user-attachments/assets/05de37fa-ed96-4178-af67-3b618fc1d709)
+
+![6](https://github.com/user-attachments/assets/c48e9e28-cd2b-460d-9325-448d427f5f8e)
+
+![7](https://github.com/user-attachments/assets/5bb88d68-a334-4f3b-9f45-631a4a213062)
