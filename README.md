@@ -56,27 +56,14 @@ future-banks-ksa/
 
 ## Installation & Setup
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/future-banks-ksa.git
-cd future-banks-ksa
-Install dependencies:
-
-bash
-Copy code
+2️⃣ Install dependencies
 npm install
-Start development server:
 
-bash
-Copy code
+3️⃣ Start development server
 npm run dev
-The project runs on:
 
-arduino
-Copy code
-http://localhost:5173
-Build for Production
-bash
-Copy code
+
+Visit → http://localhost:5173/
+
+🔥 Production Build
 npm run build
