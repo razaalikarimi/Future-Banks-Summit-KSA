@@ -54,27 +54,24 @@ future-banks-ksa/
 ├── package.json
 └── README.md
 
-yaml
-Copy code
-
----
 
 ## 🔧 Installation & Setup
 
-Clone the repository:
+## Clone the repository:
 
-Install dependencies:
+## Install dependencies:
 
-bash
-npm install
-Start development server:
+## bash
+-npm install
+## Start development server:
 
-bash
-npm run dev
-Now open the project at:
+## bash
+-npm run dev
+## Now open the project at:
 
-arduino
-http://localhost:5173/
-🔥 Production Build
-bash
-npm run build
+## arduino
+-http://localhost:5173/
+## 🔥 Production Build
+##bash
+-npm run build
+
